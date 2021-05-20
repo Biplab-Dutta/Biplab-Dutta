@@ -5,7 +5,7 @@ Currently exploring Flutter and self-learning Native Android development along w
 
 Now that you have spent some time knowing about me, why don't you follow me on Twitter too? 👀👀👀 
 
-**About me:** I love watching cricket and anime. 😍 Thanks to a baka friend of mine. 😂
+**My Likings:** I love watching cricket and anime. 😍 Thanks to a baka friend of mine. 😂
 
 
 
