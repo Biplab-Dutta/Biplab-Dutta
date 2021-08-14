@@ -1,12 +1,14 @@
+### About me:
 Hello 👋
 
-I am a Computer Science student from Nepal and I love programming. 
+I am a Computer Science student from Nepal 🇳🇵 and I love programming 👨‍💻. 
 Currently exploring Flutter and self-learning Native Android development along with Django Rest Framework. 😎
 
 Now that you have spent some time knowing about me, why don't you follow me on Twitter too? 👀👀👀 
 
-**My Likings:** I love watching cricket and anime. 😍 Thanks to a baka friend of mine. 😂
-
+### My Likings: 
+I love watching cricket and anime. 😍 Thanks to a baka friend of mine. 😂
+Also, I love reading books 📚. Feel free to suggest me some books if you want to by messaging me on my socials. Links are given below. 👇
 
 
 ![Biplab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)
