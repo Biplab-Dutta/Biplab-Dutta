@@ -15,6 +15,6 @@ Now that you have spent some time knowing about me, why don't you follow me on T
 
 ### Let's Connect 🔗
 
-[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=4a63f7)](https://www.facebook.com/biplab.dutta.55)
+[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=4267B2)](https://www.facebook.com/biplab.dutta.55)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/biplab-dutta-43774717a/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/b_plab98)
