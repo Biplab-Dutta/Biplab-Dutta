@@ -1,6 +1,11 @@
 ### About me:
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="175px"/></a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 I am a Computer Science student from Nepal 🇳🇵 and I love programming and developing software 👨‍💻. 
