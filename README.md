@@ -1,5 +1,7 @@
 ### About me:
-Hello 👋
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="175px"/></a>
+
+Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 I am a Computer Science student from Nepal 🇳🇵 and I love programming and developing software 👨‍💻. 
 Currently exploring Flutter and self-learning Native Android development along with Django Rest Framework. 😎
