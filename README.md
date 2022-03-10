@@ -25,6 +25,5 @@ Also, I love reading books 📚. Feel free to suggest me some books if you want 
 ### Let's Connect 🔗
 
 [![](https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white&color=4A5EC4)](https://discordapp.com/users/506161072143728671)
-[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/biplab.dutta.55)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/biplab-dutta-43774717a/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/b_plab98)
