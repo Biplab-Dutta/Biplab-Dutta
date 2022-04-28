@@ -30,4 +30,5 @@ Also, I love reading books 📚. Feel free to suggest me some books if you want 
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
+* [Network Requests in Flutter with Dio and Functional Programming](https:&#x2F;&#x2F;medium.com&#x2F;@biplabdutta2055&#x2F;network-requests-in-flutter-with-dio-and-functional-programming-78d81e532dde?source&#x3D;rss-351a2cbcf692------2)
 <!--END_SECTION:feed-->
