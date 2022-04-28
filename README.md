@@ -1,4 +1,4 @@
-### About me:
+### 👨‍💻 About me:
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="175px"/></a>
 
 <p align="center"> 
@@ -13,17 +13,21 @@ Currently exploring Flutter and self-learning Native Android development along w
 
 Now that you have spent some time knowing about me, why don't you follow me on Twitter too? 👀👀👀 
 
-### My Likings: 
+### 👍️ My Likings: 
 I love watching cricket 🏏 and anime 📺😍. Thanks to a baka friend of mine. 😂
 Also, I love reading books 📚. Feel free to suggest me some books if you want to by messaging me on my socials. Links are given below. 👇
 
-### Statistics:
+### 🧐 Statistics:
 ![Biplab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)
 
 [![Biplab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplab-Dutta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Let's Connect 🔗
+### 🔗 Let's Connect
 
 [![](https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white&color=4A5EC4)](https://discordapp.com/users/506161072143728671)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/biplab-dutta-43774717a/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/b_plab98)
+
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
