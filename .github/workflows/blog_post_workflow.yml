@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: "https://medium.com/feed/@biplabdutta2055"
+          feed-url: "https://medium.com/feed/@biplabdutta2055,https://dev.to/feed/b_plab98"
           readme-section: feed
-          max: 10
+          max: 15
