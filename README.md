@@ -28,7 +28,6 @@ Also, I love reading books 📚. Feel free to suggest me some books if you want 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/biplab-dutta-43774717a/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/b_plab98)
 
-### 📙 Blog Posts
-<!--START_SECTION:feed-->
-* [Network Requests in Flutter with Dio and Functional Programming](https:&#x2F;&#x2F;medium.com&#x2F;@biplabdutta2055&#x2F;network-requests-in-flutter-with-dio-and-functional-programming-78d81e532dde?source&#x3D;rss-351a2cbcf692------2)
-<!--END_SECTION:feed-->
+### 📙 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

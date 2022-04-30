@@ -4,16 +4,14 @@ on:
     # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed-url: "https://medium.com/feed/@biplabdutta2055,https://dev.to/feed/b_plab98"
-          readme-section: feed
-          max: 15
+          feed_list: "https://dev.to/feed/b_plab98,https://medium.com/feed/@biplabdutta2055"
+          max_post_count: 15
