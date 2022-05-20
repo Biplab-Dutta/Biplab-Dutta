@@ -1,5 +1,7 @@
 ### 👨‍💻 About me:
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="175px"/></a>
+<p align="center">
+<a href="#"><img width="100%" height="100%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></a>
+</p>
 
 <p align="center"> 
   Visitor count<br>
