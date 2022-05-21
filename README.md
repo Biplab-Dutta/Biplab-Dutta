@@ -32,7 +32,7 @@ Also, I love reading books 📚. Feel free to suggest me some books if you want 
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Product Flavors in Flutter — Create admin and non-admin apps with distinct UI with a single codebase](https://dev.to/b_plab98/product-flavors-in-flutter-create-admin-and-non-admin-apps-with-distinct-ui-with-a-single-codebase-kef)
+- [Product Flavors in Flutter—Create admin and non-admin apps with distinct UI with a single codebase](https://dev.to/b_plab98/product-flavors-in-flutter-create-admin-and-non-admin-apps-with-distinct-ui-with-a-single-codebase-kef)
 - [Product Flavors in Flutter — Create admin and non-admin apps with distinct UI with a single…](https://biplabdutta2055.medium.com/product-flavors-in-flutter-create-admin-and-non-admin-apps-with-distinct-ui-with-a-single-149d620e55c8?source=rss-351a2cbcf692------2)
 - [Form Validation in Flutter using flutter_bloc and Functional Programming &lpar;Either&rpar;—A Proper Way](https://dev.to/b_plab98/form-validation-in-flutter-using-flutterbloc-and-functional-programming-either-a-proper-way-397g)
 - [Form Validation in Flutter using flutter_bloc and Functional Programming &lpar;Either&rpar; — A Proper Way](https://biplabdutta2055.medium.com/form-validation-in-flutter-using-flutter-bloc-and-functional-programming-either-a-proper-way-9d726e28ae52?source=rss-351a2cbcf692------2)
