@@ -32,6 +32,8 @@ Also, I love reading books 📚. Feel free to suggest me some books if you want 
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Theme Switching &amp; Persisting in Flutter using cubits and Stream](https://dev.to/b_plab98/theme-switching-persisting-in-flutter-using-cubits-and-stream-5553)
+- [Theme Switching &amp; Persisting in Flutter using cubits and Stream](https://biplabdutta2055.medium.com/theme-switching-persisting-in-flutter-using-cubits-and-stream-3af896116388?source=rss-351a2cbcf692------2)
 - [Product Flavors in Flutter—Create admin and non-admin apps with distinct UI with a single codebase](https://dev.to/b_plab98/product-flavors-in-flutter-create-admin-and-non-admin-apps-with-distinct-ui-with-a-single-codebase-kef)
 - [Product Flavors in Flutter — Create admin and non-admin apps with distinct UI with a single…](https://biplabdutta2055.medium.com/product-flavors-in-flutter-create-admin-and-non-admin-apps-with-distinct-ui-with-a-single-149d620e55c8?source=rss-351a2cbcf692------2)
 - [Form Validation in Flutter using flutter_bloc and Functional Programming &lpar;Either&rpar;—A Proper Way](https://dev.to/b_plab98/form-validation-in-flutter-using-flutterbloc-and-functional-programming-either-a-proper-way-397g)
