@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/biplab-dutta/count.svg" />
 </p>
 
-Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 I am a Computer Science student from Nepal 🇳🇵 and I love programming and developing software 👨‍💻. 
 Currently exploring Flutter and self-learning Native Android development along with Django Rest Framework. 😎
