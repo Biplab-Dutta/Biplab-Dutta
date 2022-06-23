@@ -26,11 +26,11 @@ Also, I love reading books 📚. Feel free to suggest me some books if you want 
 
 ### 🔗 Let's Connect
 
-[![](https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white&color=4A5EC4)](https://discordapp.com/users/506161072143728671)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/biplab-dutta-43774717a/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/b_plab98)
-[![](https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white&color=000000)](https://medium.com/@biplabdutta2055)
-[![](https://img.shields.io/badge/dev-%230077B5.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=000000)](https://dev.to/b_plab98)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/506161072143728671)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplab-dutta-43774717a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/b_plab98)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@biplabdutta2055)
+[![Dev](https://img.shields.io/badge/dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/b_plab98)
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
