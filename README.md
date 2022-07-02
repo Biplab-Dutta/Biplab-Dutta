@@ -10,19 +10,20 @@
 
 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-I am a Computer Science student from Nepal 🇳🇵 and I love programming and developing software 👨‍💻. 
-Currently exploring Flutter and self-learning Native Android development along with Django Rest Framework. 😎
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=700&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Flutter+and+native+Android+(Kotlin)+📱;I+write+blogs+on+flutter-specific+topics+✍️;I've+over+3+years+of+experience+🧔)](https://git.io/typing-svg)
 
-Now that you have spent some time knowing about me, why don't you follow me on Twitter too? 👀👀👀 
 
-### 👍️ My Likings: 
-I love watching cricket 🏏 and anime 📺😍. Thanks to a baka friend of mine. 😂
-Also, I love reading books 📚. Feel free to suggest me some books if you want to by messaging me on my socials. Links are given below. 👇
+### 👍️ My Likings:
+* Watching cricket 🏏 and anime 📺️
+* Reading non-fictional, career-oriented, and software engineering books 📚️
+* Drinking coffee ☕️
+
 
 ### 📊 Statistics:
 ![Biplab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)
 
 [![Biplab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplab-Dutta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🔗 Let's Connect
 
@@ -31,6 +32,7 @@ Also, I love reading books 📚. Feel free to suggest me some books if you want 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/b_plab98)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@biplabdutta2055)
 [![Dev](https://img.shields.io/badge/dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/b_plab98)
+
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
