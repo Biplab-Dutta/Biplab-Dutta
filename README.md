@@ -1,8 +1,3 @@
-### 👨‍💻 About me:
-<p align="center">
-<a href="#"><img width="100%" height="100%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></a>
-</p>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/biplab-dutta/count.svg" />
