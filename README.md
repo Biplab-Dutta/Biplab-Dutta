@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Biplab-Dutta/Biplab-Dutta/main/assets/cover_page.jpeg"></img>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/biplab-dutta/count.svg" />
