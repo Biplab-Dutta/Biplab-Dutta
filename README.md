@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Biplab-Dutta/Biplab-Dutta/main/assets/cover_image.jpeg"></img>
+<img src="https://raw.githubusercontent.com/Biplab-Dutta/Biplab-Dutta/main/assets/cover_image.png">
 
 <p align="center"> 
   Visitor count<br>
