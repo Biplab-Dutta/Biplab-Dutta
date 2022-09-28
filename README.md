@@ -17,8 +17,8 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 ### Some Open Source Projects
 [![now-in-dart-flutter](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=now-in-dart-flutter)](https://github.com/Biplab-Dutta/now-in-dart-flutter)
 [![Nepali Date](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=Nepali_Date)](https://github.com/Biplab-Dutta/Nepali_Date)
-[![Personal Blogging Site](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=personal_site)](https://github.com/Biplab-Dutta/personal_site)
 [![Omelette](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=omelette)](https://github.com/Biplab-Dutta/omelette)
+[![Personal Blogging Site](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=personal_site)](https://github.com/Biplab-Dutta/personal_site)
 
 ### 📊 Statistics:
 ![Biplab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)
