@@ -9,18 +9,21 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Flutter+and+native+Android+(Kotlin)+📱;I+write+blogs+on+flutter-specific+topics+✍️;I've+over+2+years+of+flutter+experience+🧔)](https://git.io/typing-svg)
 
-
 ### 👍️ My Likings:
 * Watching cricket 🏏 and anime 📺️
 * Reading non-fictional, career-oriented, and software engineering books 📚️
 * Drinking coffee ☕️
 
+### Some Open Source Projects
+[![now-in-dart-flutter](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=now-in-dart-flutter)](https://github.com/Biplab-Dutta/now-in-dart-flutter)
+[![Nepali Date](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=Nepali_Date)](https://github.com/Biplab-Dutta/Nepali_Date)
+[![Personal Blogging Site](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=personal_site)](https://github.com/Biplab-Dutta/personal_site)
+[![Omelette](https://github-readme-stats.vercel.app/api/pin/?username=Biplab-Dutta&repo=omelette)](https://github.com/Biplab-Dutta/omelette)
 
 ### 📊 Statistics:
 ![Biplab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)
 
 [![Biplab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplab-Dutta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🔗 Let's Connect
 
@@ -29,7 +32,6 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/b_plab98)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@biplabdutta2055)
 [![Dev](https://img.shields.io/badge/dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/b_plab98)
-
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
