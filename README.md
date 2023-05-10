@@ -35,9 +35,9 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An introduction to Records and Pattern Matching in Dart &amp; FLutter](https://biplabdutta.com.np/posts/pattern-matching-dart/)
 - [A deep dive into unit testing in Flutter 🧪](https://biplabdutta.com.np/posts/unit-test/)
 - [Theme Switching &amp; Persisting in Flutter using cubits and Stream](https://biplabdutta.com.np/posts/theme-switching/)
 - [Product Flavors in Flutter—Create admin and non-admin apps with distinct UI with a single codebase](https://biplabdutta.com.np/posts/product-flavors/)
 - [Form Validation in Flutter using flutter_bloc and Functional Programming &lpar;Either&rpar;—A Proper Way](https://biplabdutta.com.np/posts/form-validation/)
-- [A Taste of Reactive Programming in Flutter with RxDart and flutter_bloc](https://biplabdutta.com.np/posts/reactive-programming/)
 <!-- BLOG-POST-LIST:END -->
