@@ -21,9 +21,9 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 [![Personal Blogging Site](https://github-readme-stats-three-ruddy-42.vercel.app/api/pin/?username=Biplab-Dutta&repo=personal_site&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/personal_site)
 
 ### 📊 Statistics:
-[![Biplab's GitHub stats](https://github-readme-stats-biplab.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)](https://github-readme-stats-biplab.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)
+[![Biplab's GitHub stats](https://github-readme-stats-three-ruddy-42.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)](https://github-readme-stats-biplab.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)
 
-[![Biplab's Top Langs](https://github-readme-stats-biplab.vercel.app/api/top-langs/?username=Biplab-Dutta&layout=compact&theme=radical)](https://github-readme-stats-biplab.vercel.app/api/top-langs/?username=Biplab-Dutta&layout=compact&theme=radical)
+[![Biplab's Top Langs](https://github-readme-stats-three-ruddy-42.vercel.app/api/top-langs/?username=Biplab-Dutta&layout=compact&theme=radical)](https://github-readme-stats-biplab.vercel.app/api/top-langs/?username=Biplab-Dutta&layout=compact&theme=radical)
 
 ### 🔗 Let's Connect
 
