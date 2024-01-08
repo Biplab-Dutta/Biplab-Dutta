@@ -15,10 +15,10 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 * Drinking coffee ☕️
 
 ### Some Open Source Projects
-[![now-in-dart-flutter](https://github-readme-stats-biplab.vercel.app/api/pin/?username=Biplab-Dutta&repo=now-in-dart-flutter&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/now-in-dart-flutter)
-[![Nepali Date](https://github-readme-stats-biplab.vercel.app/api/pin/?username=Biplab-Dutta&repo=Nepali_Date&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/Nepali_Date)
-[![Omelette](https://github-readme-stats-biplab.vercel.app/api/pin/?username=Biplab-Dutta&repo=omelette&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/omelette)
-[![Personal Blogging Site](https://github-readme-stats-biplab.vercel.app/api/pin/?username=Biplab-Dutta&repo=personal_site&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/personal_site)
+[![now-in-dart-flutter](https://github-readme-stats-three-ruddy-42.vercel.app/api/pin/?username=Biplab-Dutta&repo=now-in-dart-flutter&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/now-in-dart-flutter)
+[![Nepali Date](https://github-readme-stats-three-ruddy-42.vercel.app/api/pin/?username=Biplab-Dutta&repo=Nepali_Date&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/Nepali_Date)
+[![Omelette](https://github-readme-stats-three-ruddy-42.vercel.app/api/pin/?username=Biplab-Dutta&repo=omelette&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/omelette)
+[![Personal Blogging Site](https://github-readme-stats-three-ruddy-42.vercel.app/api/pin/?username=Biplab-Dutta&repo=personal_site&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Biplab-Dutta/personal_site)
 
 ### 📊 Statistics:
 [![Biplab's GitHub stats](https://github-readme-stats-biplab.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)](https://github-readme-stats-biplab.vercel.app/api?username=Biplab-Dutta&show_icons=true&theme=radical)
