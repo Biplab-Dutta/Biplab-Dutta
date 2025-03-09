@@ -7,7 +7,7 @@
 
 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Flutter+and+native+Android+(Kotlin)+📱;I+write+blogs+on+flutter-specific+topics+✍️;I've+over+3+years+of+flutter+experience+🧔)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=%2336BCF7&width=1020&lines=I'm+a+Computer+Science+Graduate+from+Nepal+👨‍🎓🇳🇵;Working+with+Flutter+and+native+Android+(Kotlin)+📱;I+write+blogs+on+flutter-specific+topics+✍️;I've+over+4+years+of+flutter+experience+🧔)](https://git.io/typing-svg)
 
 ### 👍️ My Likings:
 * Watching cricket 🏏 and anime 📺️
